@@ -1,5 +1,4 @@
-<h2> Hi, I'm Gouder Haithem! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Gouder Haithem! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://elearning.univ-constantine2.dz/elearning/index.php">University of Constantine 2 , Algeria</a>
   <img src="https://giphy.com/gifs/looking-screen-look-at-Qt1jk5Q49C3h5CrlBe/fullscreen" width="30"></br>Developer Consultant at <a href="https://gouder-haithem.vercel.app/">My self now 😑</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
