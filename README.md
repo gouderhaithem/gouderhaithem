@@ -1,30 +1,42 @@
-<h2> Hi, I'm Gouder Haithem! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://elearning.univ-constantine2.dz/elearning/index.php">University of Constantine 2 , Algeria</a>
-  <img src="https://giphy.com/gifs/looking-screen-look-at-Qt1jk5Q49C3h5CrlBe/fullscreen" width="30"></br>Developer Consultant at <a href="https://gouder-haithem.vercel.app/">My self now 😑</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gouderhaithem/count.svg" />
+</p>
+
+## About me
 
 
 
-[![GitHub gouderhaithem](https://img.shields.io/github/followers/gouderhaithem?label=follow&style=social)](https://github.com/gouderhaithem)
+I'm Gouder Haitem, currently studying Computer Science, focusing on my final graduate project. I reside in Algeria and have a passion for web development. I consider myself a Web Developer Expert in Next. Engaged in the tech community, especially Web tech, I love contributing to open-source projects, occasional blogging
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## Things I am passionate about
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+- Android :robot:
+- creating api 💻
+- Free Api 🆓
+- Open source :octocat:
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## Get in touch :coffee:
 
----
+- Your future buddy to discuss Web related things and tech in general on [Facebook](https://web.facebook.com/haithem.232/).
+- Your future life savior :stuck_out_tongue: on [My website](https://gouder-haithem.vercel.app/).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/haithem-gouder%EF%BF%BD-689164244/)
+- And of course GitHub you're already on (Recursion).
+
+
+<!--
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
