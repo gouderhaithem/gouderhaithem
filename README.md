@@ -1,11 +1,11 @@
 <h2> Hi, I'm Gouder Haithem! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://elearning.univ-constantine2.dz/elearning/index.php">University of Constantine 2 , Algeria</a>
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://gouder-haithem.vercel.app/">My self now 😑</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://giphy.com/gifs/looking-screen-look-at-Qt1jk5Q49C3h5CrlBe/fullscreen" width="30"></br>Developer Consultant at <a href="https://gouder-haithem.vercel.app/">My self now 😑</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
-[![Linkedin: Gouder Haithem](https://img.shields.io/badge/-gouderhaithem-blue?style=flat-square&logo=Linkedin&logoColor=white&link =https://www.linkedin.com/in/haithem-gouder%EF%BF%BD-689164244/)](https://www.linkedin.com/in/haithem-gouder%EF%BF%BD-689164244/)
+
 [![GitHub gouderhaithem](https://img.shields.io/github/followers/gouderhaithem?label=follow&style=social)](https://github.com/gouderhaithem)
 
 
