@@ -75,31 +75,31 @@ const gouderHaitem: Developer = {
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Analytics
 
 <div align="center">
 
-### 💻 Tech Stack & Contributions
+### 📊 Stats Overview
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00D9FF)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=00D9FF)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=00D9FF)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=00D9FF)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=00D9FF)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=00D9FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)
 
-<br/>
+### 🔥 Contribution Streak
 
-### 📈 Contribution Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=gouderhaithem&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
-[![GitHub followers](https://img.shields.io/github/followers/gouderhaithem?label=Followers&style=social)](https://github.com/gouderhaithem)
-[![GitHub stars](https://img.shields.io/github/stars/gouderhaithem?label=Total%20Stars&style=social)](https://github.com/gouderhaithem)
+### 💻 Most Used Languages
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
-### 🎯 Contribution Graph
+</div>
 
-[![Gouder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/gouderhaithem)
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
