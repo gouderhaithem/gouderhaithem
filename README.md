@@ -79,27 +79,44 @@ const gouderHaitem: Developer = {
 
 <div align="center">
 
-### 📊 Stats Overview
+<table>
+<tr>
+<td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 
-### 🔥 Contribution Streak
+</td>
+<td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gouderhaithem&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+### 🔥 Streak Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gouderhaithem&theme=algolia&hide_border=true)
 
-### 💻 Most Used Languages
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+### 💻 Language Stats
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&theme=algolia&hide_border=true&layout=compact&langs_count=10)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Activity
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+### 🎯 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=react-dark&hide_border=true&area=true)
+
+### 🏅 Trophy Showcase
+![Trophy](https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
