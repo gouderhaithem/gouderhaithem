@@ -75,32 +75,25 @@ const gouderHaitem: Developer = {
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<a href="https://github.com/gouderhaithem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-</a>
+### 💻 Tech Stack & Contributions
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00D9FF)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=00D9FF)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=00D9FF)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=00D9FF)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=00D9FF)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=00D9FF)
 
 <br/>
 
-<a href="https://github.com/gouderhaithem">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gouderhaithem&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
-</a>
+### 📈 Contribution Activity
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<a href="https://github.com/gouderhaithem">
-  <img src="https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=onestar&no-frame=true&column=7&row=1&margin-w=15"/>
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/gouderhaithem?label=Followers&style=social)](https://github.com/gouderhaithem)
+[![GitHub stars](https://img.shields.io/github/stars/gouderhaithem?label=Total%20Stars&style=social)](https://github.com/gouderhaithem)
 
 </div>
 
