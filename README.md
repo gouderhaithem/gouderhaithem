@@ -95,6 +95,12 @@ const gouderHaitem: Developer = {
 [![GitHub followers](https://img.shields.io/github/followers/gouderhaithem?label=Followers&style=social)](https://github.com/gouderhaithem)
 [![GitHub stars](https://img.shields.io/github/stars/gouderhaithem?label=Total%20Stars&style=social)](https://github.com/gouderhaithem)
 
+<br/>
+
+### 🎯 Contribution Graph
+
+[![Gouder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/gouderhaithem)
+
 </div>
 
 ---
