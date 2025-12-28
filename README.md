@@ -91,6 +91,10 @@ const gouderHaitem: Developer = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
+### 🎯 Contribution Graph
+
+[![Gouder's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/gouderhaithem)
+
 </div>
 
 ---
