@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Next.js+%26+React+Specialist;Open+Source+Contributor;Building+the+Future+of+Web)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=gouderhaithem&icon=5&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=gouderhaithem&color=00D9FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -78,22 +78,28 @@ const gouderHaitem: Developer = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gouderhaithem&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+### 📊 Stats Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=gouderhaithem&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
@@ -118,20 +124,14 @@ I'm always open to interesting conversations, collaboration opportunities, and c
 
 ### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### ✍️ Dev Joke of the Day
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
 ---
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 ### Thanks for visiting! Let's build something awesome together 🚀
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+⭐️ From [gouderhaithem](https://github.com/gouderhaithem)
 
 </div>
