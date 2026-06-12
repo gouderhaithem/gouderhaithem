@@ -127,12 +127,18 @@ const gouderHaithem = {
 
 <br/>
 
-<!-- Trophies -->
-## <img src="https://media.giphy.com/media/QLKlgjDJHpVfcCgZnr/giphy.gif" width="28"> GitHub Trophies
+<!-- Achievements -->
+## <img src="https://media.giphy.com/media/QLKlgjDJHpVfcCgZnr/giphy.gif" width="28"> My Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+🌟 Continuous learner and passionate developer with a focus on building impactful projects
+
+**Key Milestones:**
+- 📚 Computer Science Graduate Student
+- 🏆 Active Open Source Contributor
+- 💻 Full Stack Web Development Expert
+- 🚀 Building innovative solutions for the community
 
 </div>
 
