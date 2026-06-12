@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17&height=200&section=header&text=Gouder%20Haithem&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%26%20React%20Specialist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:00D9FF,100:0D1117&text=Gouder%20Haithem&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Next.js%20%26%20React%20Specialist&descAlignY=58&descSize=18&section=header" width="100%" alt="Header Banner"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%9A;API+Architect+%F0%9F%94%8C;Building+the+Future+of+Web+%E2%9C%A8)](https://gouderhaithem.com)
@@ -183,6 +183,6 @@ const gouderHaithem = {
 
 ### ⭐ Thanks for visiting! Let's build something awesome together 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:00D9FF,100:0D1117&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
