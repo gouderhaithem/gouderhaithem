@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:00D9FF,100:0D1117&text=Gouder%20Haithem&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Next.js%20%26%20React%20Specialist&descAlignY=58&descSize=18&section=header" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:00D9FF,100:0D1117&text=Gouder%20Haithem&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer" alt="Animated Banner"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;Open+Source+Contributor+%F0%9F%92%9A;API+Architect+%F0%9F%94%8C;Building+the+Future+of+Web+%E2%9C%A8)](https://gouderhaithem.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -112,16 +112,16 @@ const gouderHaithem = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gouderhaithem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouderhaithem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=00D9FF" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=gouderhaithem&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=gouderhaithem&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouderhaithem&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -153,7 +153,7 @@ const gouderHaithem = {
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/haithem-gouder-689164244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/haithem-gouder-689164244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 &nbsp;
 <a href="https://web.facebook.com/haithem.232/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"/></a>
 &nbsp;
