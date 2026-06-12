@@ -132,7 +132,7 @@ const gouderHaithem = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gouderhaithem&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -155,9 +155,9 @@ const gouderHaithem = {
 
 <a href="https://www.linkedin.com/in/haithem-gouder-689164244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://web.facebook.com/haithem.232/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://web.facebook.com/haithem.232/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook"/></a>
 &nbsp;
-<a href="https://github.com/gouderhaithem"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/gouderhaithem"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
 
 </div>
 
